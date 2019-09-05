@@ -51,15 +51,15 @@ description_footer: 来自黄昕晰的个人专栏！
 
 
 
-friends: [
-    {
-        title: "Linkedin - Huang XinXi",
-        href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
-    }
-]
+#friends: [
+#    {
+#        title: "Linkedin - Huang XinXi",
+#        href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
+#    }
+#]
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 kramdown:
   input: GFM
