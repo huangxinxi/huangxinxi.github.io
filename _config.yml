@@ -6,51 +6,54 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "姚信的技术专栏"
+title: "黄昕晰的技术专栏"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
+url: "https://huangxinxi.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
-github_username:  XinYao1994
-email: u3004330@connect.hku.hk
-weibo_username: 
-zhihu_username: 
-linkedIn_username: xinyao1994
+twitter_username:
+facebook_username:
+github_username:  huangxinxi
+email: 497129546@qq.com
+weibo_username: -黄昕晰
+zhihu_username: Crown
+linkedIn_username: huangxinxi
 dribbble_username:
 
-description_footer: 来自姚信的个人专栏！
+description_footer: 来自黄昕晰的个人专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 # duoshuo_shortname: xyao #hygblog
 # disqus_shortname: #gaohaoyang
+
 # using Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 52bbb620d9680fd85254                            #生成的clientID
-  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
-  owner: XinYao1994    #github用户名
-  admin: XinYao1994
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 52bbb620d9680fd85254                            #生成的clientID
+#  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
+#  repo: huangxinxi.github.io    #仓库名称
+#  owner: huangxinxi   #github用户名
+#  admin: huangxinxi
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 # baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
-google_analytics_id: UA-126298955-1 # google 分析追踪id
-ga_domain: auto
+#google_analytics_id: UA-126298955-1 # google 分析追踪id
+#ga_domain: auto
+
+
 
 friends: [
     {
-        title: "Linkedin - Xin YAO",
+        title: "Linkedin - Huang XinXi",
         href: "https://www.linkedin.com/in/%E4%BF%A1-%E5%A7%9A-947492167/"
     }
 ]
