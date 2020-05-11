@@ -2,8 +2,8 @@
 layout: post
 title:  "MySQL Notifier开机提醒High Severity Error缺少根元素"
 date:   2020-05-11
-categories: markdown
-tags: markdown
+categories: Mysql
+tags: Mysql
 ---
 
 今天开机Mysql Notifier突然提示“High Severity Error缺少根元素”
